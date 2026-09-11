@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://my-website-two-theta-78.vercel.app/sitemap.xml
